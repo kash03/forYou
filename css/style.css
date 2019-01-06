@@ -1,0 +1,13 @@
+/* Global area */
+p{
+	font-size: 24px;
+	font-weight: 700;
+	color: blue;
+}
+button{
+	margin-left: 70px;
+}
+.try{
+	margin-top:200px;
+	margin-left: 500px;
+}
